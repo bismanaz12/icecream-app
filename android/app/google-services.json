@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "393808832863",
+    "project_id": "my-new-app-eadc8",
+    "storage_bucket": "my-new-app-eadc8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393808832863:android:628d096daf08e64713eeea",
+        "android_client_info": {
+          "package_name": "com.example.bank_app22"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPcRGRNcSGhxEbtmiqmguqFRcmET5aKPE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
